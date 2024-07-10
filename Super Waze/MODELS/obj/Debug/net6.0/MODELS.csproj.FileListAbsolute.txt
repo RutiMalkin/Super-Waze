@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\bin\Debug\net6.0\MODELS.deps.json
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\bin\Debug\net6.0\MODELS.runtimeconfig.json
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\bin\Debug\net6.0\MODELS.dll
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\bin\Debug\net6.0\MODELS.pdb
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\MODELS.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\MODELS.sourcelink.json
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\MODELS.dll
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\refint\MODELS.dll
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\MODELS.pdb
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\MODELS.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\MODELS\obj\Debug\net6.0\ref\MODELS.dll
