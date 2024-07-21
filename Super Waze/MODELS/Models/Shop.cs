@@ -10,8 +10,5 @@ namespace MODELS.Models
     {
         public int Id_Shop { get; set; }
         public string Name { get; set; }
-        public ICollection<Product> Products { get; set; }
-        public ICollection<Customer> Customers { get; set; }
-        //public int[,] Matrix_Map { get; set; }
     }
 }
