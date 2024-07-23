@@ -70,3 +70,6 @@ C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Cor
 C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\Super Waze\bin\Debug\net6.0\BL.pdb
 C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\Super Waze\bin\Debug\net6.0\DAL.pdb
 C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\Super Waze\bin\Debug\net6.0\MODELS.pdb
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\Super Waze\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\Super Waze\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\משתמש\Desktop\לימודים\שנה ב\Project Super Waze\.NET Core\Super Waze\Super Waze\bin\Debug\net6.0\Serilog.dll

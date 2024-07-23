@@ -9,7 +9,8 @@ namespace DAL.Interfaces
 {
     public interface ICustomer
     {
-        //Task<bool> AddCustomer(Customer c);
+        Task<bool> AddCustomer(Customer c);
+        Task<Customer> GetCustomerById(int id); 
         //Task<bool> AddProductToCart(Product p);
         //Task<bool> AddShop(Shop s);
         //Task<List<Product>> GetAllCart(int id);
