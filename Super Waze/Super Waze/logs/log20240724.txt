@@ -1,0 +1,4 @@
+2024-07-24 05:56:20.913 +03:00 [INF] Request: POST /api/Customer/Add_Customer
+2024-07-24 05:56:25.715 +03:00 [INF] Response: 200
+2024-07-24 05:57:10.322 +03:00 [INF] Request: GET /GetAllProduct
+2024-07-24 05:57:11.652 +03:00 [INF] Response: 200

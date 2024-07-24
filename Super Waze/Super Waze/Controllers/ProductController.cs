@@ -1,10 +1,12 @@
 ﻿using DAL.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using MODELS.Models;
 
 namespace Super_Waze.Controllers
 {
+    
     [Route("api/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
@@ -15,6 +17,7 @@ namespace Super_Waze.Controllers
                 _product = product;
         }
 
+        [Authorize]
         [HttpGet]
         [Route("/GetAllProduct")]
         public async Task<ActionResult<List<Product>>> GetAllProduct([FromQuery] int id_shop)
@@ -23,6 +26,7 @@ namespace Super_Waze.Controllers
             return Ok(res); 
         }
 
+        [Authorize]
         [HttpGet]
         [Route("/GetProductById")]
         public async Task<ActionResult<Product>> GetProductById([FromQuery] int id)
@@ -31,6 +35,7 @@ namespace Super_Waze.Controllers
             return Ok(res);
         }
 
+        [Authorize]
         [HttpPost]
         [Route("/Add_Product")]
         public async Task<ActionResult> Add_Product([FromBody] Product p)
@@ -39,6 +44,7 @@ namespace Super_Waze.Controllers
             return Ok();
         }
 
+        [Authorize]
         [HttpDelete]
         [Route("/Add_Product")]
         public async Task<ActionResult> Delete_Product([FromQuery] int id)
@@ -47,6 +53,7 @@ namespace Super_Waze.Controllers
             return Ok();
         }
 
+        [Authorize]
         [HttpPut]
         [Route("/Update_Count_Product")]
         public async Task<ActionResult> Update_Count_Product([FromQuery] int id, [FromQuery] int count)

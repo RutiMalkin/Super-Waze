@@ -22,6 +22,7 @@ namespace Super_Waze.Controllers
             _jwt = jwt;
         }
 
+        [AllowAnonymous]
         [HttpPost("Add_Customer")]
         public IActionResult Add_Customer([FromBody] Customer customer)
         {

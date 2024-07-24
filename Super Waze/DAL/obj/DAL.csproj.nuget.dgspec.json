@@ -80,6 +80,10 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -176,6 +180,10 @@
             "Serilog": {
               "target": "Package",
               "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
